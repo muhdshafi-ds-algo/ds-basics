@@ -1,0 +1,11 @@
+Array implementation
+LinkedList implementation
+
+Problems
+AA-check balanced symbols
+AB-Traversals (inorder, preorder, postorder and level order)
+AC-
+AD-
+AE-
+
+

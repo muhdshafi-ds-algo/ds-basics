@@ -1,0 +1,16 @@
+AA - nth node from the end of the linked list &
+	 Middle element &
+	 Even or Odd
+AB - check if a linked list has cycle &
+	 find start node of cycle &
+	 find length of cycle &
+	 remove cycle
+AC - Reverse Linked List	
+AD - Find Merging point of 2 linked list
+AE - Merge Sorted Linked list
+AF - reverse pair && TODO reverse by block K
+AG - Split linked list into half
+AH - TODO Palindrome linked list  
+AI - TODO rotate linkedList by K
+AJ - TODO Flattening a Linked List
+AK - TODO Delete the elements in an linked list whose sum is equal to zero
