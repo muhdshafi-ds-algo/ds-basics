@@ -16,7 +16,9 @@
     ### Strict Binary Tree
     ### Full Binary Tree
     ### Complete Binary Tree
-  ### Binary Search Tree
+  ### Binary Search Tree 
+  - Left < root < right 
+  - Genrally BST nodes are considered to be Unique, otherwise while balancing a BST, it wil be complex.
   ### Balanced Tree
 ## Priority Queue & Heap
 ## Disjoint Sets
